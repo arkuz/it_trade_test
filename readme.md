@@ -21,5 +21,4 @@ http://test/get_params.php?bye=пока&page=5
 ![Скриншот с примером в Postman](https://cdn1.savepice.ru/uploads/2019/3/19/d3c7bded9fbe26890f54244409ebaf5a-full.png)
 
 # Дополнительно
-Для проверки скрипта доступен демнстрационный хостинг - [http://k928312d.beget.tech/it_trade_test/get_params.php](http://k928312d.beget.tech/it_trade_test/get_params.php)
-При отправке запроса не из браузера обязательно указать заголовок `User-Agent`.
+Для проверки скрипта доступен демонстрационный хостинг - [http://k928312d.beget.tech/it_trade_test/get_params.php](http://k928312d.beget.tech/it_trade_test/get_params.php). При отправке запроса не из браузера обязательно указать заголовок `User-Agent`.
